@@ -1,4 +1,4 @@
-# Exoplanet Detection Methods Classification
+# Exoplanet Detection Methods Classification using neural networks
 
 ## Overview
 
